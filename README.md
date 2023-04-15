@@ -1,5 +1,11 @@
 # c-projects
 
+🖥️ C-Projects 🚀
+
+Hello! 👋
+
+This is a collection of my simple projects made using the C language.
+
 To view These repository online using Codespaces, follow these steps:
 
 •	Click on the "Code" button on the right side of the screen.
@@ -21,3 +27,4 @@ To view These repository online using Codespaces, follow these steps:
 :white_check_mark:gcc file.c -o executable
 
 :white_check_mark:./executable
+
