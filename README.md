@@ -28,3 +28,12 @@ To view These repository online using Codespaces, follow these steps:
 
 :white_check_mark:./executable
 
+# Help me out / collab : 
+
+👉  7.Au_Attendance_Calculator.c
+     Issue : To update attendance cal for all branches by adding switch and storing sub names in struct and store student details in a file roll/branch/sec etc
+     
+👉  Check and report issues if found 🙂
+
+
+DM : <a href="https://twitter.com/ncpedia" target="blank">✅</a>
